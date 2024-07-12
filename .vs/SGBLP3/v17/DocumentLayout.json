@@ -1,15 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\SGBLP3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{009C807F-2177-4AB5-AD3D-D7B622EFC822}|SGBLWEB\\SGBLWEB.csproj|c:\\sgblp3\\sgblweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{009C807F-2177-4AB5-AD3D-D7B622EFC822}|SGBLWEB\\SGBLWEB.csproj|solutionrelative:sgblweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C807F-2177-4AB5-AD3D-D7B622EFC822}|SGBLWEB\\SGBLWEB.csproj|c:\\sgblp3\\sgblweb\\controllers\\iusuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009C807F-2177-4AB5-AD3D-D7B622EFC822}|SGBLWEB\\SGBLWEB.csproj|solutionrelative:sgblweb\\controllers\\iusuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D60D1A-C789-440B-A756-90B3F849C8B9}|AccesoDatos\\AccesoDatos.csproj|c:\\sgblp3\\accesodatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D60D1A-C789-440B-A756-90B3F849C8B9}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3195C005-85E0-48FF-8839-000C79CB08D9}|Aplicacion\\Aplicacion.csproj|c:\\sgblp3\\aplicacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3195C005-85E0-48FF-8839-000C79CB08D9}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C807F-2177-4AB5-AD3D-D7B622EFC822}|SGBLWEB\\SGBLWEB.csproj|c:\\sgblp3\\sgblweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009C807F-2177-4AB5-AD3D-D7B622EFC822}|SGBLWEB\\SGBLWEB.csproj|solutionrelative:sgblweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C807F-2177-4AB5-AD3D-D7B622EFC822}|SGBLWEB\\SGBLWEB.csproj|c:\\sgblp3\\sgblweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009C807F-2177-4AB5-AD3D-D7B622EFC822}|SGBLWEB\\SGBLWEB.csproj|solutionrelative:sgblweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C807F-2177-4AB5-AD3D-D7B622EFC822}|SGBLWEB\\SGBLWEB.csproj|c:\\sgblp3\\sgblweb\\sgblweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{009C807F-2177-4AB5-AD3D-D7B622EFC822}|SGBLWEB\\SGBLWEB.csproj|solutionrelative:sgblweb\\sgblweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C807F-2177-4AB5-AD3D-D7B622EFC822}|SGBLWEB\\SGBLWEB.csproj|c:\\sgblp3\\sgblweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009C807F-2177-4AB5-AD3D-D7B622EFC822}|SGBLWEB\\SGBLWEB.csproj|solutionrelative:sgblweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C807F-2177-4AB5-AD3D-D7B622EFC822}|SGBLWEB\\SGBLWEB.csproj|c:\\sgblp3\\sgblweb\\models\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009C807F-2177-4AB5-AD3D-D7B622EFC822}|SGBLWEB\\SGBLWEB.csproj|solutionrelative:sgblweb\\models\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C807F-2177-4AB5-AD3D-D7B622EFC822}|SGBLWEB\\SGBLWEB.csproj|c:\\sgblp3\\sgblweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{009C807F-2177-4AB5-AD3D-D7B622EFC822}|SGBLWEB\\SGBLWEB.csproj|solutionrelative:sgblweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 222,
       "DocumentGroups": [
         {
-          "DockedWidth": 215,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +67,127 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\SGBLP3\\SGBLWEB\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SGBLWEB\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\SGBLP3\\SGBLWEB\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SGBLWEB\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T04:25:34.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsuariosController.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\SGBLWEB\\Controllers\\IUsuariosController.cs",
+              "RelativeDocumentMoniker": "SGBLWEB\\Controllers\\IUsuariosController.cs",
+              "ToolTip": "C:\\SGBLP3\\SGBLWEB\\Controllers\\IUsuariosController.cs",
+              "RelativeToolTip": "SGBLWEB\\Controllers\\IUsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:17:32.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\AccesoDatos\\Program.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Program.cs",
+              "ToolTip": "C:\\SGBLP3\\AccesoDatos\\Program.cs",
+              "RelativeToolTip": "AccesoDatos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:08:07.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Program.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Program.cs",
+              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Program.cs",
+              "RelativeToolTip": "Aplicacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:08:01.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\SGBLWEB\\Program.cs",
+              "RelativeDocumentMoniker": "SGBLWEB\\Program.cs",
+              "ToolTip": "C:\\SGBLP3\\SGBLWEB\\Program.cs",
+              "RelativeToolTip": "SGBLWEB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:36:33.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\SGBLWEB\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SGBLWEB\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\SGBLP3\\SGBLWEB\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SGBLWEB\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:31:05.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SGBLWEB.csproj",
+              "DocumentMoniker": "C:\\SGBLP3\\SGBLWEB\\SGBLWEB.csproj",
+              "RelativeDocumentMoniker": "SGBLWEB\\SGBLWEB.csproj",
+              "ToolTip": "C:\\SGBLP3\\SGBLWEB\\SGBLWEB.csproj",
+              "RelativeToolTip": "SGBLWEB\\SGBLWEB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T01:22:59.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\SGBLWEB\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SGBLWEB\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\SGBLP3\\SGBLWEB\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SGBLWEB\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:22:14.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUsuario.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\SGBLWEB\\Models\\IUsuario.cs",
+              "RelativeDocumentMoniker": "SGBLWEB\\Models\\IUsuario.cs",
+              "ToolTip": "C:\\SGBLP3\\SGBLWEB\\Models\\IUsuario.cs",
+              "RelativeToolTip": "SGBLWEB\\Models\\IUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:20:25.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\SGBLP3\\SGBLWEB\\appsettings.json",
+              "RelativeDocumentMoniker": "SGBLWEB\\appsettings.json",
+              "ToolTip": "C:\\SGBLP3\\SGBLWEB\\appsettings.json",
+              "RelativeToolTip": "SGBLWEB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T01:18:19.137Z"
             }
           ]
         },

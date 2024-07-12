@@ -1,0 +1,15 @@
+C:\SGBLP3\AccesoDatos\bin\Debug\net6.0\AccesoDatos.exe
+C:\SGBLP3\AccesoDatos\bin\Debug\net6.0\AccesoDatos.deps.json
+C:\SGBLP3\AccesoDatos\bin\Debug\net6.0\AccesoDatos.runtimeconfig.json
+C:\SGBLP3\AccesoDatos\bin\Debug\net6.0\AccesoDatos.dll
+C:\SGBLP3\AccesoDatos\bin\Debug\net6.0\AccesoDatos.pdb
+C:\SGBLP3\AccesoDatos\obj\Debug\net6.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\SGBLP3\AccesoDatos\obj\Debug\net6.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\SGBLP3\AccesoDatos\obj\Debug\net6.0\AccesoDatos.AssemblyInfo.cs
+C:\SGBLP3\AccesoDatos\obj\Debug\net6.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\SGBLP3\AccesoDatos\obj\Debug\net6.0\AccesoDatos.sourcelink.json
+C:\SGBLP3\AccesoDatos\obj\Debug\net6.0\AccesoDatos.dll
+C:\SGBLP3\AccesoDatos\obj\Debug\net6.0\refint\AccesoDatos.dll
+C:\SGBLP3\AccesoDatos\obj\Debug\net6.0\AccesoDatos.pdb
+C:\SGBLP3\AccesoDatos\obj\Debug\net6.0\AccesoDatos.genruntimeconfig.cache
+C:\SGBLP3\AccesoDatos\obj\Debug\net6.0\ref\AccesoDatos.dll
