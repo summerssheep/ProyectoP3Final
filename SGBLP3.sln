@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{B7D60D1A-C789-440B-A756-90B3F849C8B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{B7D60D1A-C789-440B-A756-90B3F849C8B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion", "Aplicacion\Aplicacion.csproj", "{3195C005-85E0-48FF-8839-000C79CB08D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aplicación", "Aplicacion\Aplicación.csproj", "{3195C005-85E0-48FF-8839-000C79CB08D9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGBLWEB", "SGBLWEB\SGBLWEB.csproj", "{6D742BFD-9199-495A-98B1-8A4132EB7CA9}"
 EndProject

@@ -8,9 +8,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Logica\Editora\" />
+    <Folder Include="Logica\Libro\" />
+    <Folder Include="Logica\Reporte\" />
+    <Folder Include="Logica\Prestamo\" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.2" />
     <PackageReference Include="System.Threading.Tasks.Extensions" Version="4.5.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AccesoDatos\AccesoDatos.csproj" />
+    <ProjectReference Include="..\SGBLWEB\SGBLWEB.csproj" />
   </ItemGroup>
 
 </Project>
