@@ -1,24 +1,15 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\SGBLP3\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B7D60D1A-C789-440B-A756-90B3F849C8B9}|AccesoDatos\\AccesoDatos.csproj|c:\\sgblp3\\accesodatos\\accesodatos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{B7D60D1A-C789-440B-A756-90B3F849C8B9}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\accesodatos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7D60D1A-C789-440B-A756-90B3F849C8B9}|AccesoDatos\\AccesoDatos.csproj|c:\\sgblp3\\accesodatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7D60D1A-C789-440B-A756-90B3F849C8B9}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 222,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,31 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccesoDatos",
-              "DocumentMoniker": "C:\\SGBLP3\\AccesoDatos\\AccesoDatos.csproj",
-              "RelativeDocumentMoniker": "AccesoDatos\\AccesoDatos.csproj",
-              "ToolTip": "C:\\SGBLP3\\AccesoDatos\\AccesoDatos.csproj",
-              "RelativeToolTip": "AccesoDatos\\AccesoDatos.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-13T02:09:45.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\SGBLP3\\AccesoDatos\\Program.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\Program.cs",
-              "ToolTip": "C:\\SGBLP3\\AccesoDatos\\Program.cs",
-              "RelativeToolTip": "AccesoDatos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T01:52:48.118Z",
-              "EditorCaption": ""
             }
           ]
         },

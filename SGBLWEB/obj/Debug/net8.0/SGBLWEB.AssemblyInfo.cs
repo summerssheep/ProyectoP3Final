@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SGBLWEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+898e731599fdee3fd956d0e7381a062024e58ca2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25a753ef60822de5db96b181947d646a5d9671d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SGBLWEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SGBLWEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
