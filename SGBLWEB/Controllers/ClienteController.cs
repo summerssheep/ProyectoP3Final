@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using Aplicación.Logica.Cliente;
 using static Aplicación.Logica.Cliente.ConsultaId;
 
-namespace SGBL.Controllers
+namespace SGBLWEB.Controllers
 {
     public class ClienteController : GeneralController
     {

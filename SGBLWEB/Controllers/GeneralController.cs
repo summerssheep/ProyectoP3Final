@@ -2,7 +2,7 @@
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace SGBL.Controllers
+namespace SGBLWEB.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

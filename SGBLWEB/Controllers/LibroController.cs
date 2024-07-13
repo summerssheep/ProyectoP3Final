@@ -8,7 +8,7 @@ using Aplicación.Logica.Libro;
 using static Aplicación.Logica.Libro.Consulta;
 using static Aplicación.Logica.Libro.ConsultaId;
 
-namespace SGBL.Controllers
+namespace SGBLWEB.Controllers
 {
     public class LibroController : GeneralController
     {

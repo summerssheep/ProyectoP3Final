@@ -3,40 +3,104 @@
   "WorkspaceRootPath": "C:\\SGBLP3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7D60D1A-C789-440B-A756-90B3F849C8B9}|AccesoDatos\\AccesoDatos.csproj|c:\\sgblp3\\accesodatos\\context\\proyectocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7D60D1A-C789-440B-A756-90B3F849C8B9}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\context\\proyectocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\Aplicacion\\Logica\\Libro\\ConsultaId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Logica\\Libro\\ConsultaId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7D60D1A-C789-440B-A756-90B3F849C8B9}|AccesoDatos\\AccesoDatos.csproj|c:\\sgblp3\\accesodatos\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7D60D1A-C789-440B-A756-90B3F849C8B9}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\Aplicacion\\Logica\\Libro\\Consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Logica\\Libro\\Consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3195C005-85E0-48FF-8839-000C79CB08D9}|Aplicacion\\Aplicaci\u00F3n.csproj|c:\\sgblp3\\aplicacion\\logica\\autor\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3195C005-85E0-48FF-8839-000C79CB08D9}|Aplicacion\\Aplicaci\u00F3n.csproj|solutionrelative:aplicacion\\logica\\autor\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\Aplicacion\\Logica\\Editora\\Insertar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Logica\\Editora\\Insertar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D742BFD-9199-495A-98B1-8A4132EB7CA9}|SGBLWEB\\SGBLWEB.csproj|c:\\sgblp3\\sgblweb\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D742BFD-9199-495A-98B1-8A4132EB7CA9}|SGBLWEB\\SGBLWEB.csproj|solutionrelative:sgblweb\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\Aplicacion\\Logica\\Editora\\Editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Logica\\Editora\\Editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3195C005-85E0-48FF-8839-000C79CB08D9}|Aplicacion\\Aplicaci\u00F3n.csproj|c:\\sgblp3\\aplicacion\\logica\\cliente\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3195C005-85E0-48FF-8839-000C79CB08D9}|Aplicacion\\Aplicaci\u00F3n.csproj|solutionrelative:aplicacion\\logica\\cliente\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\AccesoDatos\\Tablas\\Categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccesoDatos\\Tablas\\Categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3195C005-85E0-48FF-8839-000C79CB08D9}|Aplicacion\\Aplicaci\u00F3n.csproj|c:\\sgblp3\\aplicacion\\logica\\categoria\\insertar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3195C005-85E0-48FF-8839-000C79CB08D9}|Aplicacion\\Aplicaci\u00F3n.csproj|solutionrelative:aplicacion\\logica\\categoria\\insertar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\Aplicacion\\Logica\\Cliente\\Editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Logica\\Cliente\\Editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3195C005-85E0-48FF-8839-000C79CB08D9}|Aplicacion\\Aplicaci\u00F3n.csproj|c:\\sgblp3\\aplicacion\\logica\\categoria\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3195C005-85E0-48FF-8839-000C79CB08D9}|Aplicacion\\Aplicaci\u00F3n.csproj|solutionrelative:aplicacion\\logica\\categoria\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\SGBLWEB\\SGBLWEB.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SGBLWEB\\SGBLWEB.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3195C005-85E0-48FF-8839-000C79CB08D9}|Aplicacion\\Aplicaci\u00F3n.csproj|c:\\sgblp3\\aplicacion\\logica\\autor\\consultaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3195C005-85E0-48FF-8839-000C79CB08D9}|Aplicacion\\Aplicaci\u00F3n.csproj|solutionrelative:aplicacion\\logica\\autor\\consultaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\Aplicacion\\Logica\\Cliente\\ConsultaId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Logica\\Cliente\\ConsultaId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3195C005-85E0-48FF-8839-000C79CB08D9}|Aplicacion\\Aplicaci\u00F3n.csproj|c:\\sgblp3\\aplicacion\\aplicaci\u00F3n.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3195C005-85E0-48FF-8839-000C79CB08D9}|Aplicacion\\Aplicaci\u00F3n.csproj|solutionrelative:aplicacion\\aplicaci\u00F3n.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\Aplicacion\\Logica\\Cliente\\Insertar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Logica\\Cliente\\Insertar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\Aplicacion\\Logica\\Categoria\\Eliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Logica\\Categoria\\Eliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\Aplicacion\\Logica\\Categoria\\Editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Logica\\Categoria\\Editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\Aplicacion\\Logica\\Categoria\\Consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Logica\\Categoria\\Consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\Aplicacion\\Logica\\Categoria\\Insertar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Logica\\Categoria\\Insertar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\Aplicacion\\Logica\\Autor\\Insertar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Logica\\Autor\\Insertar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\Aplicacion\\Logica\\Autor\\Consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Logica\\Autor\\Consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\Aplicacion\\Logica\\Autor\\ConsultaId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Logica\\Autor\\ConsultaId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\Aplicacion\\Logica\\Autor\\Autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aplicacion\\Logica\\Autor\\Autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\AccesoDatos\\Datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccesoDatos\\Datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\AccesoDatos\\Tablas\\Autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccesoDatos\\Tablas\\Autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\AccesoDatos\\Tablas\\Editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccesoDatos\\Tablas\\Editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\AccesoDatos\\Tablas\\Libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccesoDatos\\Tablas\\Libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\AccesoDatos\\Tablas\\Prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccesoDatos\\Tablas\\Prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\AccesoDatos\\Tablas\\Clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccesoDatos\\Tablas\\Clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\AccesoDatos\\Tablas\\Usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccesoDatos\\Tablas\\Usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SGBLP3\\AccesoDatos\\Context\\ProyectoContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccesoDatos\\Context\\ProyectoContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,120 +130,304 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Datos.cs",
-              "DocumentMoniker": "C:\\SGBLP3\\AccesoDatos\\Datos.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\Datos.cs",
-              "ToolTip": "C:\\SGBLP3\\AccesoDatos\\Datos.cs",
-              "RelativeToolTip": "AccesoDatos\\Datos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "ConsultaId.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Libro\\ConsultaId.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Libro\\ConsultaId.cs",
+              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Libro\\ConsultaId.cs",
+              "RelativeToolTip": "Aplicacion\\Logica\\Libro\\ConsultaId.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAmwDkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T03:56:25.921Z",
+              "WhenOpened": "2024-07-13T19:34:44.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProyectoContext.cs",
-              "DocumentMoniker": "C:\\SGBLP3\\AccesoDatos\\Context\\ProyectoContext.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\Context\\ProyectoContext.cs",
-              "ToolTip": "C:\\SGBLP3\\AccesoDatos\\Context\\ProyectoContext.cs",
-              "RelativeToolTip": "AccesoDatos\\Context\\ProyectoContext.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwCcAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Libro\\Consulta.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Libro\\Consulta.cs",
+              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Libro\\Consulta.cs",
+              "RelativeToolTip": "Aplicacion\\Logica\\Libro\\Consulta.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAmwD0AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T03:16:21.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T19:09:46.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Insertar.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Editora\\Insertar.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Editora\\Insertar.cs",
+              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Editora\\Insertar.cs",
+              "RelativeToolTip": "Aplicacion\\Logica\\Editora\\Insertar.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwDAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T19:08:03.256Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PrestamoController.cs",
-              "DocumentMoniker": "C:\\SGBLP3\\SGBLWEB\\Controllers\\PrestamoController.cs",
-              "RelativeDocumentMoniker": "SGBLWEB\\Controllers\\PrestamoController.cs",
-              "ToolTip": "C:\\SGBLP3\\SGBLWEB\\Controllers\\PrestamoController.cs",
-              "RelativeToolTip": "SGBLWEB\\Controllers\\PrestamoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Title": "Editar.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Editora\\Editar.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Editora\\Editar.cs",
+              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Editora\\Editar.cs",
+              "RelativeToolTip": "Aplicacion\\Logica\\Editora\\Editar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T02:49:38.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T19:07:52.617Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Consulta.cs",
-              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Cliente\\Consulta.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Cliente\\Consulta.cs",
-              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Cliente\\Consulta.cs",
-              "RelativeToolTip": "Aplicacion\\Logica\\Cliente\\Consulta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\AccesoDatos\\Tablas\\Categorias.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Tablas\\Categorias.cs",
+              "ToolTip": "C:\\SGBLP3\\AccesoDatos\\Tablas\\Categorias.cs",
+              "RelativeToolTip": "AccesoDatos\\Tablas\\Categorias.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T02:48:36.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T19:06:44.504Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Insertar.cs",
-              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Categoria\\Insertar.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Categoria\\Insertar.cs",
-              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Categoria\\Insertar.cs",
-              "RelativeToolTip": "Aplicacion\\Logica\\Categoria\\Insertar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Title": "Editar.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Cliente\\Editar.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Cliente\\Editar.cs",
+              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Cliente\\Editar.cs",
+              "RelativeToolTip": "Aplicacion\\Logica\\Cliente\\Editar.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T02:45:02.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T19:05:33.212Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Consulta.cs",
-              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Categoria\\Consulta.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Categoria\\Consulta.cs",
-              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Categoria\\Consulta.cs",
-              "RelativeToolTip": "Aplicacion\\Logica\\Categoria\\Consulta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T02:44:55.445Z",
-              "EditorCaption": ""
+              "Title": "SGBLWEB.csproj",
+              "DocumentMoniker": "C:\\SGBLP3\\SGBLWEB\\SGBLWEB.csproj",
+              "RelativeDocumentMoniker": "SGBLWEB\\SGBLWEB.csproj",
+              "ToolTip": "C:\\SGBLP3\\SGBLWEB\\SGBLWEB.csproj",
+              "RelativeToolTip": "SGBLWEB\\SGBLWEB.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAtwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T19:00:13.982Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ConsultaId.cs",
-              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Autor\\ConsultaId.cs",
-              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Autor\\ConsultaId.cs",
-              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Autor\\ConsultaId.cs",
-              "RelativeToolTip": "Aplicacion\\Logica\\Autor\\ConsultaId.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAswCMAAAAtAAAA",
+              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Cliente\\ConsultaId.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Cliente\\ConsultaId.cs",
+              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Cliente\\ConsultaId.cs",
+              "RelativeToolTip": "Aplicacion\\Logica\\Cliente\\ConsultaId.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwDUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T02:36:47.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T18:56:20.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "Insertar.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Cliente\\Insertar.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Cliente\\Insertar.cs",
+              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Cliente\\Insertar.cs",
+              "RelativeToolTip": "Aplicacion\\Logica\\Cliente\\Insertar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:55:39.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Eliminar.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Categoria\\Eliminar.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Categoria\\Eliminar.cs",
+              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Categoria\\Eliminar.cs",
+              "RelativeToolTip": "Aplicacion\\Logica\\Categoria\\Eliminar.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:52:32.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Editar.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Categoria\\Editar.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Categoria\\Editar.cs",
+              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Categoria\\Editar.cs",
+              "RelativeToolTip": "Aplicacion\\Logica\\Categoria\\Editar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:52:19.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Categoria\\Consulta.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Categoria\\Consulta.cs",
+              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Categoria\\Consulta.cs",
+              "RelativeToolTip": "Aplicacion\\Logica\\Categoria\\Consulta.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:52:10.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Insertar.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Categoria\\Insertar.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Categoria\\Insertar.cs",
+              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Categoria\\Insertar.cs",
+              "RelativeToolTip": "Aplicacion\\Logica\\Categoria\\Insertar.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA7wAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:49:46.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Insertar.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Autor\\Insertar.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Autor\\Insertar.cs",
+              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Autor\\Insertar.cs",
+              "RelativeToolTip": "Aplicacion\\Logica\\Autor\\Insertar.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA/wAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:33:30.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Consulta.cs",
               "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Autor\\Consulta.cs",
               "RelativeDocumentMoniker": "Aplicacion\\Logica\\Autor\\Consulta.cs",
               "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Autor\\Consulta.cs",
               "RelativeToolTip": "Aplicacion\\Logica\\Autor\\Consulta.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T02:35:49.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T18:08:07.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Aplicaci\u00F3n.csproj",
-              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Aplicaci\u00F3n.csproj",
-              "RelativeDocumentMoniker": "Aplicacion\\Aplicaci\u00F3n.csproj",
-              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Aplicaci\u00F3n.csproj",
-              "RelativeToolTip": "Aplicacion\\Aplicaci\u00F3n.csproj",
+              "DocumentIndex": 15,
+              "Title": "ConsultaId.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Autor\\ConsultaId.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Autor\\ConsultaId.cs",
+              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Autor\\ConsultaId.cs",
+              "RelativeToolTip": "Aplicacion\\Logica\\Autor\\ConsultaId.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:02:12.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Autores.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\Aplicacion\\Logica\\Autor\\Autores.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Logica\\Autor\\Autores.cs",
+              "ToolTip": "C:\\SGBLP3\\Aplicacion\\Logica\\Autor\\Autores.cs",
+              "RelativeToolTip": "Aplicacion\\Logica\\Autor\\Autores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:59:17.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\AccesoDatos\\Datos.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Datos.cs",
+              "ToolTip": "C:\\SGBLP3\\AccesoDatos\\Datos.cs",
+              "RelativeToolTip": "AccesoDatos\\Datos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-13T02:25:12.19Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:51:44.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Autores.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\AccesoDatos\\Tablas\\Autores.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Tablas\\Autores.cs",
+              "ToolTip": "C:\\SGBLP3\\AccesoDatos\\Tablas\\Autores.cs",
+              "RelativeToolTip": "AccesoDatos\\Tablas\\Autores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:51:13.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Editorial.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\AccesoDatos\\Tablas\\Editorial.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Tablas\\Editorial.cs",
+              "ToolTip": "C:\\SGBLP3\\AccesoDatos\\Tablas\\Editorial.cs",
+              "RelativeToolTip": "AccesoDatos\\Tablas\\Editorial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:49:52.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Libros.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\AccesoDatos\\Tablas\\Libros.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Tablas\\Libros.cs",
+              "ToolTip": "C:\\SGBLP3\\AccesoDatos\\Tablas\\Libros.cs",
+              "RelativeToolTip": "AccesoDatos\\Tablas\\Libros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:49:40.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Prestamos.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\AccesoDatos\\Tablas\\Prestamos.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Tablas\\Prestamos.cs",
+              "ToolTip": "C:\\SGBLP3\\AccesoDatos\\Tablas\\Prestamos.cs",
+              "RelativeToolTip": "AccesoDatos\\Tablas\\Prestamos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:49:31.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\AccesoDatos\\Tablas\\Clientes.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Tablas\\Clientes.cs",
+              "ToolTip": "C:\\SGBLP3\\AccesoDatos\\Tablas\\Clientes.cs",
+              "RelativeToolTip": "AccesoDatos\\Tablas\\Clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:48:53.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\AccesoDatos\\Tablas\\Usuarios.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Tablas\\Usuarios.cs",
+              "ToolTip": "C:\\SGBLP3\\AccesoDatos\\Tablas\\Usuarios.cs",
+              "RelativeToolTip": "AccesoDatos\\Tablas\\Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:47:34.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProyectoContext.cs",
+              "DocumentMoniker": "C:\\SGBLP3\\AccesoDatos\\Context\\ProyectoContext.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Context\\ProyectoContext.cs",
+              "ToolTip": "C:\\SGBLP3\\AccesoDatos\\Context\\ProyectoContext.cs",
+              "RelativeToolTip": "AccesoDatos\\Context\\ProyectoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:45:32.825Z"
             }
           ]
         },

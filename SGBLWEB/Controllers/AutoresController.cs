@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using Aplicación.Logica.Autor;
 using static Aplicación.Logica.Autor.ConsultaId;
 
-namespace SGBL.Controllers
+namespace SGBLWEB.Controllers
 {
     public class AutoresController : GeneralController
     {

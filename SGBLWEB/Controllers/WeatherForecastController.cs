@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace SGBLWEB.Controllers
-{
+{ 
     [Authorize]
     [ApiController]
     [Route("[controller]")]

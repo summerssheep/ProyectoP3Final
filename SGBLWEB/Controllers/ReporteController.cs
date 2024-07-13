@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using Aplicación.Logica.Reporte;
 using static Aplicación.Logica.Reporte.Consulta;
 
-namespace SGBL.Controllers
+namespace SGBLWEB.Controllers
 {
     public class ReporteController : GeneralController
     {

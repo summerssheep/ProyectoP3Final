@@ -14,16 +14,16 @@ namespace Aplicación.Logica.Cliente
 {
     public class ConsultaId
     {
-      public class ClienteDtoId
-      {
-            public string nombre { get; set; }
-            public string apellido { get; set; }
-            public string correo { get; set; }
+        public class ClienteDtoId
+        {
+            public string? nombre { get; set; }
+            public string? apellido { get; set; }
+            public string? correo { get; set; }
             public int matricula { get; set; }
             public DateTime? fecha_nacimiento { get; set; }
-      }
+        }
 
-        public class ClienteporId: IRequest<ClienteDtoId>
+        public class ClienteporId : IRequest<ClienteDtoId>
         {
             public Guid Id { get; set; }
         }
@@ -38,19 +38,28 @@ namespace Aplicación.Logica.Cliente
             public async Task<ClienteDtoId> Handle(ClienteporId request, CancellationToken cancellationToken)
             {
                 var cliente = await _context.Clientes
-                .Where(c => c.id == request.Id)
-                .Select(c => new ClienteDtoId
-                {
-                    nombre = c.nombre,
-                    apellido = c.apellido,
-                    correo = c.correo,
-                    matricula = c.matricula,
-                    fecha_nacimiento = c.fecha_nacimiento
+                    .Where(c => c.id == request.Id)
+                    .Select(c => new ClienteDtoId
+                    {
+                        nombre = c.nombre,
+                        apellido = c.apellido,
+                        correo = c.correo,
+                        matricula = c.matricula,
+                        fecha_nacimiento = c.fecha_nacimiento
+                    }).FirstOrDefaultAsync();
 
-                }).FirstOrDefaultAsync();
+                if (cliente == null)
+                {
+                    throw new Exception($"Cliente con Id {request.Id} no encontrado.");
+                    //   devolver un valor por defecto
+                    // return new ClienteDtoId();
+                }
 
                 return cliente;
             }
+
         }
+
     }
+
 }

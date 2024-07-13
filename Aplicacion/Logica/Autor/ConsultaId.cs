@@ -1,14 +1,19 @@
-﻿
+﻿using MediatR;
+using FluentValidation;
+using Microsoft.EntityFrameworkCore;
+using Accesodatos.Context;
+
 namespace Aplicación.Logica.Autor
 {
-    public class ConsultaId
+    public class ConsultaId : Autores
     {
         public class AutorDtoId
         {
-            public string ? nombre { get; set; }
-            public string ? apellido { get; set; }
-            public string ? pais { get; set; }
-            public string ? descripcion { get; set; }
+
+            public string? nombre { get; set; }
+            public string? apellido { get; set; }
+            public string? pais { get; set; }
+            public string? descripcion { get; set; }
         }
 
         public class AutorporId : IRequest<AutorDtoId>
@@ -26,16 +31,20 @@ namespace Aplicación.Logica.Autor
             public async Task<AutorDtoId> Handle(AutorporId request, CancellationToken cancellationToken)
             {
                 var autor = await _context.Autores
-                    .Where(A => A.id == request.Id)
-                    .Select(A => new AutorDtoId
+                    .Where(a => a.id == request.Id)
+                    .Select(a => new AutorDtoId
                     {
-                        nombre = A.nombre,
-                        apellido = A.apellido,
-                        pais = A.pais,
-                        descripcion = A.descripcion
-                    }).FirstOrDefaultAsync();
-                return autor;
+                        nombre = a.nombre,
+                        apellido = a.apellido,
+                        pais = a.pais,
+                        descripcion = a.descripcion
+                    })
+                    .FirstOrDefaultAsync();
+
+                return autor ?? new AutorDtoId(); // Devuelve una instancia nueva si autor es null
             }
         }
+
     }
+
 }

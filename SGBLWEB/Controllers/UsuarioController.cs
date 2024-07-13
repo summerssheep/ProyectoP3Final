@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using Aplicación.Seguridad;
 
 
-namespace SGBL.Controllers
+namespace SGBLWEB.Controllers
 {
     public class UsuarioController : GeneralController
     {

@@ -10,6 +10,7 @@ using Accesodatos.Context;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace Aplicación.Logica.Categoria
 {
     public class Editar
@@ -17,7 +18,7 @@ namespace Aplicación.Logica.Categoria
         public class EditarCategoria: IRequest<Unit>
         {
             public Guid id { get; set; }
-            public string nombre { get; set; }
+            public string ? nombre { get; set; }
         }
 
         public class Validador: AbstractValidator<EditarCategoria>

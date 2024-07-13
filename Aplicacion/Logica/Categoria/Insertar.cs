@@ -41,7 +41,7 @@ namespace Aplicación.Logica.Categoria
                 var categoria = new Categorias
                 {
                     id = Guid.NewGuid(),
-                    nombre = request.Nombre
+                    nombre = request.Nombre ?? "ValorPredeterminado"  // Asigna un valor predeterminado si Nombre es null
                 };
                 _context.Categorias.Add(categoria);
                 var resultado = await _context.SaveChangesAsync();
@@ -49,9 +49,9 @@ namespace Aplicación.Logica.Categoria
                 {
                     return Unit.Value;
                 }
-                throw new Exception("No se pudo insertar la categoria");
-
+                throw new Exception("No se pudo insertar la categoría");
             }
+
         }
     }
 }

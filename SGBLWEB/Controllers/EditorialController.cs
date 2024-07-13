@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Collections.Generic;
 using Aplicación.Logica.Editora;
 
-namespace SGBL.Controllers
+namespace SGBLWEB.Controllers
 {
     public class EditorialController : GeneralController
     {

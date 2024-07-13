@@ -12,7 +12,7 @@ namespace Accesodatos.Tablas
         public Guid usuario_id { get; set; }
         public Guid libro_id { get; set; }
         public DateTime fecha_prestamo { get; set; }
-        public string estado { get; set; }
+        public string ? estado { get; set; }
 
 
 

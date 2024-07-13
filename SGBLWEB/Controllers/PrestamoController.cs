@@ -8,7 +8,7 @@ using Aplicación.Logica.Prestamo;
 using static Aplicación.Logica.Prestamo.Consulta;
 using static Aplicación.Logica.Prestamo.ConsultaId;
 
-namespace SGBL.Controllers
+namespace SGBLWEB.Controllers
 {
     public class PrestamoController : GeneralController
     {

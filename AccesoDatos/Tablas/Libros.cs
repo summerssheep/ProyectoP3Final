@@ -6,12 +6,18 @@ using System.Threading.Tasks;
 
 namespace Accesodatos.Tablas
 {
-    public class Libros
+    public class Libros 
     {
         public Guid id { get; set; }
-        public string nombre { get; set; }
-        public DateTime fecha_publicacion { get; set; }
-        public Guid autor_id { get; set; }
-        public Guid categoria_id { get; set; }
-    }
+    public string? nombre { get; set; }
+    public int paginas { get; set; }
+    public string? descripcion { get; set; }
+    public int edicion { get; set; }
+    public DateTime fecha_publicacion { get; set; }
+    public Guid autor_id { get; set; }
+    public Guid categoria_id { get; set; }
+    public Guid editorial_id { get; set; }
+}
+
+   
 }

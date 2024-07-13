@@ -4,12 +4,12 @@
     "C:\\SGBLP3\\Aplicacion\\Aplicación.csproj": {}
   },
   "projects": {
-    "C:\\SGBLP3\\AccesoDatos\\AccesoDatos.csproj": {
+    "C:\\SGBLP3\\AccesoDatos\\Accesodatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SGBLP3\\AccesoDatos\\AccesoDatos.csproj",
-        "projectName": "AccesoDatos",
-        "projectPath": "C:\\SGBLP3\\AccesoDatos\\AccesoDatos.csproj",
+        "projectUniqueName": "C:\\SGBLP3\\AccesoDatos\\Accesodatos.csproj",
+        "projectName": "Accesodatos",
+        "projectPath": "C:\\SGBLP3\\AccesoDatos\\Accesodatos.csproj",
         "packagesPath": "C:\\Users\\madel\\.nuget\\packages\\",
         "outputPath": "C:\\SGBLP3\\AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
@@ -32,7 +32,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\SGBLP3\\SGBLWEB\\SGBLWEB.csproj": {
+                "projectPath": "C:\\SGBLP3\\SGBLWEB\\SGBLWEB.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -50,13 +54,37 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.2, )"
             },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.2, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Threading.Tasks": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             },
             "System.Threading.Tasks.Extensions": {
               "target": "Package",
@@ -112,8 +140,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\SGBLP3\\AccesoDatos\\AccesoDatos.csproj": {
-                "projectPath": "C:\\SGBLP3\\AccesoDatos\\AccesoDatos.csproj"
+              "C:\\SGBLP3\\AccesoDatos\\Accesodatos.csproj": {
+                "projectPath": "C:\\SGBLP3\\AccesoDatos\\Accesodatos.csproj"
               },
               "C:\\SGBLP3\\SGBLWEB\\SGBLWEB.csproj": {
                 "projectPath": "C:\\SGBLP3\\SGBLWEB\\SGBLWEB.csproj"
@@ -136,13 +164,37 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.2, )"
             },
+            "Microsoft.Data.SqlClient.SNI.runtime": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.2, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Threading.Tasks": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             },
             "System.Threading.Tasks.Extensions": {
               "target": "Package",
@@ -215,6 +267,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.Negotiate": {
               "target": "Package",
               "version": "[6.0.30, )"
@@ -223,6 +283,10 @@
               "target": "Package",
               "version": "[6.0.2, )"
             },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.2, )"
@@ -230,6 +294,18 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Threading.Tasks": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             },
             "System.Threading.Tasks.Extensions": {
               "target": "Package",

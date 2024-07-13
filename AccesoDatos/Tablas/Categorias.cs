@@ -8,8 +8,8 @@ namespace Accesodatos.Tablas
 {
     public class Categorias
     {
-        public int id { get; set; }
-        public string nombre { get; set; }
+        public Guid id { get; set; }
+        public string ? nombre { get; set; }
 
     }
 }

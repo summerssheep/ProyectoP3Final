@@ -1,13 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Accesodatos.Context;
-using Accesodatos.Tablas;
+
 using MediatR;
-using System.Threading.Tasks;
-using System.Collections.Generic;
-using Aplicación.Logica.Categoria;
 
 
-namespace SGBL.Controllers
+
+namespace SGBLWEB.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

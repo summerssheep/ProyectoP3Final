@@ -4,8 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MediatR;
+using FluentValidation;
 using Accesodatos.Tablas;
 using Accesodatos.Context;
+using Microsoft.Data.SqlClient;
+using Microsoft.EntityFrameworkCore;
 
 namespace Aplicación.Logica.Categoria
 {

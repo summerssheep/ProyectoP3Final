@@ -16,9 +16,9 @@ namespace Aplicación.Logica.Cliente
     {
        public class EjecutaCliente: IRequest<Unit>
         {
-            public string nombre { get; set; }
-            public string apellido { get; set; }
-            public string correo { get; set; }
+            public string ? nombre { get; set; }
+            public string ? apellido { get; set; }
+            public string ? correo { get; set; }
             public int matricula { get; set; }
             //public string? foto_perfil { get; set; }
         }
