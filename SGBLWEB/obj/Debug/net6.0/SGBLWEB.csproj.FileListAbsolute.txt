@@ -1,0 +1,8 @@
+C:\SGBLP3\SGBLWEB\obj\Debug\net6.0\SGBLWEB.csproj.AssemblyReference.cache
+C:\SGBLP3\SGBLWEB\obj\Debug\net6.0\SGBLWEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\SGBLP3\SGBLWEB\obj\Debug\net6.0\SGBLWEB.AssemblyInfoInputs.cache
+C:\SGBLP3\SGBLWEB\obj\Debug\net6.0\SGBLWEB.AssemblyInfo.cs
+C:\SGBLP3\SGBLWEB\obj\Debug\net6.0\SGBLWEB.csproj.CoreCompileInputs.cache
+C:\SGBLP3\SGBLWEB\obj\Debug\net6.0\SGBLWEB.MvcApplicationPartsAssemblyInfo.cs
+C:\SGBLP3\SGBLWEB\obj\Debug\net6.0\SGBLWEB.MvcApplicationPartsAssemblyInfo.cache
+C:\SGBLP3\SGBLWEB\obj\Debug\net6.0\SGBLWEB.sourcelink.json

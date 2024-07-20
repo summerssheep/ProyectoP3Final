@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-
 using MediatR;
-
+using Aplicación.Logica.Categoria;
+using Accesodatos.Tablas;
 
 
 namespace SGBLWEB.Controllers
@@ -18,7 +18,7 @@ namespace SGBLWEB.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<List<Categorias>>> Lista()
+        public async Task<ActionResult<List<Categorias>>> Lista() 
         {
             return await Mediator.Send(new Consulta.ListaCategorias());
         }

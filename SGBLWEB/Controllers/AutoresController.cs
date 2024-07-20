@@ -4,8 +4,7 @@ using Accesodatos.Tablas;
 using MediatR;
 using System.Threading.Tasks;
 using System.Collections.Generic;
-using Aplicación.Logica.Autor;
-using static Aplicación.Logica.Autor.ConsultaId;
+
 
 namespace SGBLWEB.Controllers
 {

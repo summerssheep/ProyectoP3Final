@@ -21,7 +21,6 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\AccesoDatos\Accesodatos.csproj" />
-		<ProjectReference Include="..\SGBLWEB\SGBLWEB.csproj" />
 	</ItemGroup>
 
 </Project>
